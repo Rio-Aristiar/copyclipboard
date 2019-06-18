@@ -1,0 +1,2 @@
+# copyclipboard
+parse copy clipboard
